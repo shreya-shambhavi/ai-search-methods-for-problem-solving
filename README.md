@@ -1,1 +1,3 @@
-# ai-search-methods-for-problem-solving
+# Artificial Intelligence : Search Methods For Problem Solving
+
+To be updated.
